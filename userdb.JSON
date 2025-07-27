@@ -1,1 +1,8 @@
-
+[
+    {
+        "device_id": "deviceID",
+        "key": "key",
+        "expirydate": "27-07-2026",
+        "Allowoffline": false
+    }
+]
